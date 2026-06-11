@@ -82,16 +82,14 @@ Or install all dependencies at once:
 pip install -r requirements.txt
 ```
 
-### Use as an OpenCode Skill
+### Use as an AI Agent Skill
 
-Copy this repository into your OpenCode skills directory (e.g., `~/.agents/skills/paper2code/`). OpenCode will automatically load the `SKILL.md` definition.
+Copy this repository into your agent's skills directory (e.g., `~/.agents/skills/paper2code/`). The agent will automatically load the `SKILL.md` definition and follow the structured workflow.
 
 Trigger phrases include:
 - "paper to code"
 - "implement this paper"
 - "reproduce this paper"
-- "复现论文"
-- "论文转代码"
 - "build this model"
 
 ### Use Scripts Standalone

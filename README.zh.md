@@ -82,9 +82,9 @@ pip install PyMuPDF
 pip install -r requirements.txt
 ```
 
-### 作为 OpenCode Skill 使用
+### 作为 AI Agent Skill 使用
 
-将此仓库复制到 OpenCode 的 skills 目录（例如 `~/.agents/skills/paper2code/`）。OpenCode 会自动加载 `SKILL.md` 中定义的工作流。
+将此仓库复制到智能体的 skills 目录（例如 `~/.agents/skills/paper2code/`）。智能体会自动加载 `SKILL.md` 中定义的工作流并执行结构化流水线。
 
 触发词包括：
 - "复现论文"
