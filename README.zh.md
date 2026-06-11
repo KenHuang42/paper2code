@@ -216,7 +216,7 @@ IR 是整个流水线的核心产物。完整模式定义和示例（Transformer
 @software{paper2code,
   title = {Paper2Code: Convert Documents and Ideas to Runnable Deep Learning Code},
   year = {2026},
-  url = {https://github.com/YOUR_USERNAME/paper2code},
+  url = {https://github.com/KenHuang42/paper2code},
   license = {MIT}
 }
 ```

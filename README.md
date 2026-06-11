@@ -215,7 +215,7 @@ If you use this project in your research or work, please consider citing it:
 @software{paper2code,
   title = {Paper2Code: Convert Documents and Ideas to Runnable Deep Learning Code},
   year = {2026},
-  url = {https://github.com/YOUR_USERNAME/paper2code},
+  url = {https://github.com/KenHuang42/paper2code},
   license = {MIT}
 }
 ```
